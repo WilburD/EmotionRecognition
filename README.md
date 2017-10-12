@@ -4,6 +4,6 @@
  - ./demo.py
 
 ### Requirements:
- - caffe
+ - [caffe](https://github.com/BVLC/caffe)
  - opencv
- - caffemodel weights are found [here](https://drive.google.com/open?id=0B5SM4aR218blbnhCdDQ3ajYydFE)
+ - *caffemodel weights* can be found [here](https://drive.google.com/open?id=0B5SM4aR218blbnhCdDQ3ajYydFE)
