@@ -12,7 +12,8 @@
  - *caffemodel weights* can be downloaded [here](https://drive.google.com/open?id=0B5SM4aR218blbnhCdDQ3ajYydFE)
 
 ---
-Demo tested on these images:
+##Demo tested on these images:
+
 ![](/imgs/1.png)
 ![](/imgs/2.png)
 ![](/imgs/3.png)
