@@ -1,6 +1,6 @@
 # EmotionRecognition
 
-This repository contains demo and file in order to run an Emotion Recognition classifier. This model was trained using three popular datasets: **CK+** [1], **Bosphorus** [2] and **RafD** [3]. Training procedure is not supplied, but I can do it for sure if it is required. 
+This repository contains demo and files in order to easily build and run an Emotion Recognition classifier. This model was trained using three popular datasets: **CK+** [1], **Bosphorus** [2] and **RafD** [3]. Training procedure is not supplied, but I can do it for sure if it is required. 
 
 ### Notebook
  - demo.ipynb
